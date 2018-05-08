@@ -1,0 +1,4 @@
+com\revature\model\Soap.class
+com\revature\service\SoapShop.class
+com\revature\exception\SoapShopFullException.class
+com\revature\service\SoapShopImpl.class
